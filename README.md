@@ -7,8 +7,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/V-SreeVishnu/DSA/tree/master/0027-remove-element) |
+| [1004-max-consecutive-ones-iii](https://github.com/V-SreeVishnu/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/V-SreeVishnu/DSA/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/V-SreeVishnu/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/V-SreeVishnu/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/V-SreeVishnu/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
