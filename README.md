@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/V-SreeVishnu/DSA/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/V-SreeVishnu/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/V-SreeVishnu/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/V-SreeVishnu/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/V-SreeVishnu/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
